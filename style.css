@@ -1,0 +1,29 @@
+body
+{
+    text-align: center;
+    background-image: linear-gradient(lightblue, lavender);
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color: aliceblue;
+}
+
+
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+
+}
+.carousel-inner p{
+    margin-top: 15px;
+    color:white;
+    font-size: 20px;
+}
+h1 , h2{
+    font-family: sans-serif;
+}
